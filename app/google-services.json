@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "212924133195",
+    "firebase_url": "https://jamestest-261b0.firebaseio.com",
+    "project_id": "jamestest-261b0",
+    "storage_bucket": "jamestest-261b0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212924133195:android:843e21bc3020d65f",
+        "android_client_info": {
+          "package_name": "com.example.jamesbogonko.firebaseauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212924133195-n124u6qkgn2frbpm2s1tae7bkc3u9s27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnKojzkNGtNlOMI1czmqOG4bi0mvJq5Xg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212924133195:android:df0b7be367bce111",
+        "android_client_info": {
+          "package_name": "com.inducesmile.androidecommerceshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212924133195-n124u6qkgn2frbpm2s1tae7bkc3u9s27.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnKojzkNGtNlOMI1czmqOG4bi0mvJq5Xg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
